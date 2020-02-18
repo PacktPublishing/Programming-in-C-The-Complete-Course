@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+	int a=20 ;
+	a/=10 ; //equivalent to a=a/10 ;
+	printf("Updated value of a %d",a);
+}
